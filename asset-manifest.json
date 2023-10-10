@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PaginaPersonalMorthi/static/css/main.09e1073b.css",
+    "main.js": "/PaginaPersonalMorthi/static/js/main.dd852ea7.js",
+    "static/js/787.f2ac77e2.chunk.js": "/PaginaPersonalMorthi/static/js/787.f2ac77e2.chunk.js",
+    "static/media/Amigos.jpg": "/PaginaPersonalMorthi/static/media/Amigos.60e7f467876b17c9624e.jpg",
+    "static/media/Comida.jpg": "/PaginaPersonalMorthi/static/media/Comida.7ab673f75154d9304eb1.jpg",
+    "static/media/Yo.jpg": "/PaginaPersonalMorthi/static/media/Yo.4b64ce52aaa2f2d3879e.jpg",
+    "static/media/Mimido.jpg": "/PaginaPersonalMorthi/static/media/Mimido.2c497bb0808e1594c719.jpg",
+    "static/media/logo.svg": "/PaginaPersonalMorthi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PaginaPersonalMorthi/index.html",
+    "main.09e1073b.css.map": "/PaginaPersonalMorthi/static/css/main.09e1073b.css.map",
+    "main.dd852ea7.js.map": "/PaginaPersonalMorthi/static/js/main.dd852ea7.js.map",
+    "787.f2ac77e2.chunk.js.map": "/PaginaPersonalMorthi/static/js/787.f2ac77e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09e1073b.css",
+    "static/js/main.dd852ea7.js"
+  ]
+}
